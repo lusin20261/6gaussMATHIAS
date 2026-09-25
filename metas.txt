@@ -1,0 +1,5 @@
+1:ser cocinero 
+2:ser chef 
+3:ser millonario 
+4:ser abogato
+5:ser vendedor 

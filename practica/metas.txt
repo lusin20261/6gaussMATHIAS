@@ -1,0 +1,5 @@
+1:ser chef 
+2:ser millonario 
+3:ser vendedor 
+4:tener una moto 
+5:vender pan 

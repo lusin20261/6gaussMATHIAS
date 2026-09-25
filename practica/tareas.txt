@@ -1,0 +1,5 @@
+1:estudiar para el examen 
+2;estudiar para el simulacro
+3:estudir 
+4:hacer las tareas 
+5:estudiar para el examen sopresa 

@@ -1,0 +1,5 @@
+1:hacer tareas 
+2:estudiar para el examen 
+3:estudiar para el simulacro 
+4:estudiar 
+5:estudiar para el examen sorpresa 
